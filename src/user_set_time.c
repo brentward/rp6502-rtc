@@ -6,7 +6,7 @@
 
 #define BUF_SIZE 6
 
-void main()
+void user_set_time()
 {
 
     datetime_t datetime;

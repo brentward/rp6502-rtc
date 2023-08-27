@@ -24,4 +24,11 @@
             "visibility": "hidden"
         },
     },
+    "files.associations": {
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c",
+        "errno.h": "c"
+    },
 }
